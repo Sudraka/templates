@@ -1,4 +1,4 @@
-#+title: Worklog_<monthname>
+#+title: Worklog_YYYYMM
 
 |------------+----------------+---------+---------+---------+---------+------------|
 | Areas      | 30 days Target | Week 01 | Week 02 | Week 03 | Week 04 | Assessment |
