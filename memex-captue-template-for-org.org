@@ -1,0 +1,10 @@
+* DONE [[{{{PageUrl}}}][{{{PageTitle}}}]]   :memex:
+  :BACKLINK-TAGS:
+{{#PageTagList}}  [[roam:{{{.}}}]]
+{{/PageTagList}}
+  :END:
+
+{{#Notes}}
+** {{{NoteHighlight}}}
+    {{{NoteText}}} {{#NoteTagList}}[[roam:{{{.}}}]] {{/NoteTagList}}
+          {{/Notes}}
