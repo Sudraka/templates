@@ -2,6 +2,6 @@
 
 A few useful templates I have written myself or collected and modified.
 
-# Titles are self explanatory.
-# Those starting with emacs-org are for using in org-mode of Emacs. They are mostly capture templates
-# Those starting with emacs-yasnippet are snippets made by me.
+Titles are self explanatory.
+- Those starting with emacs-org are for using in org-mode of Emacs. They are mostly capture templates
+- Those starting with emacs-yasnippet are snippets made by me.
