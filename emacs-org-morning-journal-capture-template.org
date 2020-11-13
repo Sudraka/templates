@@ -1,0 +1,1 @@
+| %u | %^{Have you taken bath? |Yes|Will do later!} | %^{Have you watered your plants? |Yes|Wait, giving..} | %^{Have you done your daily meditation? |Yes|Will do later!} | %^{Have you checked emails? |Yes|Checking..} %^{Any medicines? |No|Yes, took.|Taking..|} | %^{How are you feeling today?} | %^{Have a Nice Day! |Thank you! :)}              |
