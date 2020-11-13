@@ -1,0 +1,10 @@
+* Basic Card
+:PROPERTIES:
+:ANKI_DECK: Vocab::German
+:ANKI_NOTE_TYPE: Basic
+:ANKI_TAGS: %^{Type|Noun|Pronoun|Verb|Adverb|Adjective|Preposition|Exclamation|Common Phrase|Other}
+:END:
+** Front
+   %^{Front Text}
+** Back
+   %^{Back Text}
