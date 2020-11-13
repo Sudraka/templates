@@ -1,0 +1,1 @@
+| %u | %^{Are you satisfied with today's productivity? | Yes | No | Somewhat} | %^{Are you happy with life? |Yes|No}| %^{Are you happy with self? | Yes | Will try better}| %^{Write something good that happened today} | %^{Any message for your future self?}|%^{Good Night! Take medicines, if any..|Thanks. Good night. :)}|
