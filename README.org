@@ -1,6 +1,6 @@
 #+title: Templates
 
-A few useful templates I have written myself or collected and modified.
+A few useful templates I have written myself or collected from different sources and modified.
 
 Titles are self explanatory.
 - Those starting with emacs-org are for using in org-mode of Emacs. They are mostly capture templates
